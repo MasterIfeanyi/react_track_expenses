@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a simple web app created with typescript that allows users to calculate and keep track of their expenses.
+This is a simple web app that allows users to calculate and keep track of their expenses.
 
 ## React
 
